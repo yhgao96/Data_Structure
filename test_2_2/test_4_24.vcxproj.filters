@@ -23,8 +23,5 @@
     <ClInclude Include="SortTestHelper.h">
       <Filter>源文件</Filter>
     </ClInclude>
-    <ClInclude Include="Student.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
