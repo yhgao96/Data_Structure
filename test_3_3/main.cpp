@@ -15,7 +15,7 @@ void heapSort1(T arr[], int n){
 }
 
 template<typename T>
-void heapSort2(T arr[], int n)              //µÚ¶şÀà¶ÑÅÅĞò
+void heapSort2(T arr[], int n)              //Heapify
 {
 	MaxHeap<T> maxheap = MaxHeap<T>(arr, n);
 	for (int i = n - 1; i >= 0; i--)
