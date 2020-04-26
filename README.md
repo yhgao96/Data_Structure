@@ -5,3 +5,5 @@ This repo contain C++code of  the Data Structure.
 ### 插入排序 test_2_3
 ### 归并排序 test_2_4
 ### 快速排序 test_2_5
+## 堆和堆排序
+### 堆的构件、shiftUp、shiftDown test_3_1
