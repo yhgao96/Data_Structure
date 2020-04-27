@@ -11,3 +11,5 @@ This repo contain C++code of  the Data Structure.
 - ### Heapify test_3_3
 - ### 原地堆排序 test_3_4
 - ### 索引堆 test_3_5
+## 二叉搜索树
+- ### 二分查找法 test_4_1
