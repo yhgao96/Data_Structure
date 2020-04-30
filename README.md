@@ -13,3 +13,6 @@ This repo contain C++code of  the Data Structure.
 - ### 索引堆 test_3_5
 ## 二叉搜索树
 - ### 二分查找法 test_4_1
+- ### 二叉树搜索 test_4_2
+## 并查集
+- ### 并查集及优化 test_5_1
